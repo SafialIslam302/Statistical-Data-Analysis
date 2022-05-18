@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Proofs_involving_ordinary_least_squares
+
+
+
+https://towardsdatascience.com/introduction-to-linear-regression-in-python-c12a072bedf0

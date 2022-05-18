@@ -1,0 +1,30 @@
+Determine @E@wOji and @E @wHji of loss function
+E(w; b) = 12Xk2NO (Ok 􀀀 tk)2 (1)
+for a network with one input layer (with NI neurons), output layer (with NO neurons)
+and hidden layer (with NH neurons). Note that every neuron is assumed to be connected
+to every neuron of the next layer, i.e., a Multi Layer Perceptron is considered. Further
+the sigmoid function is the considered action function for every neuron in the hidden
+and output layer.
+
+
+Determine \frac{\partialE}{\partialw_{ij}^O}and \frac{\partialE}{\partialw_{ij}^H}of loss function
+E(w, b) = \frac{1}{2}\ k ∊ No(Ok - tk)2
+for a network with one input layer (with NI neurons), output layer (with NO neurons)
+and hidden layer (with NH neurons). Note that every neuron is assumed to be connected
+to every neuron of the next layer, i.e., a Multi-Layer Perceptron is considered. Further
+the sigmoid function is the considered action function for every neuron in the hidden
+and output layer.
+
+
+\prod_{i\ =1}^{n}{E(X_1^{\sfrac{1}{n}})}
+
+∏	multiplication	product over
+
+
+Let $X_1, \ldots, X_n$ be independent and identically $U[0, θ]$ distributed random variables. Show that $$\left( \prod_{i=1}^n X_i \right)^{1/n}$$ is asymptotically unbiased and consistent for $\gamma(\theta) = \theta e^{-1}.$
+
+
+
+Let X1, ...., Xn be independent and identically U[0, θ] distributed random variables. Show that
+(Xi)^(1/n)
+is asymptotically unbiased and and consistent for γ(θ) = θe-1.

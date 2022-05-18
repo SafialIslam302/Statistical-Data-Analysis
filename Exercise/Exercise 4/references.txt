@@ -1,0 +1,12 @@
+Let (x1, ... , xn) ∈ (0, ∞)^n be a realisation of independent on [0, θ] uniformly distributed random variables X1, ... , Xn. What is Maximum Spacing Estimator in this case?
+
+∈
+
+((1/(n+1)* ln(x1 - a) + (1/(n+1) * ln(b-x2)) - ln(b-a))
+
+
+
+
+https://en.wikipedia.org/wiki/Maximum_spacing_estimation
+
+https://www.jstor.org/stable/2345411?seq=2#metadata_info_tab_contents

@@ -1,0 +1,18 @@
+# Group name 
+
+Zoo
+
+
+
+# Group members
+
+Coyote, Meerkat, Sloth, Otter
+
+
+# Contributors
+
+Ex1: Meerkat
+
+Ex2: Coyote
+
+Ex3: Otter, Meerka

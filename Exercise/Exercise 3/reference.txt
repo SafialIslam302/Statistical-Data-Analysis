@@ -1,0 +1,21 @@
+Problem 1:
+https://bookdown.org/egarpor/inference/est-methods.html#est-methods-ml
+example: 4.5
+
+
+https://math.mit.edu/~dav/05.dir/class10-prep.pdf
+
+
+https://www.probabilitycourse.com/chapter8/8_2_3_max_likelihood_estimation.php
+
+
+https://vasishth.github.io/Freq_CogSci/likelihood-and-maximum-likelihood-estimation.html
+
+https://cmdlinetips.com/2018/12/simulating-coin-toss-experiment-with-binomial-random-numbers-using-numpy/
+
+https://www.askpython.com/python/examples/probability-distributions
+
+https://medium.com/@tharakau/what-is-binomial-distribution-and-how-to-plot-it-using-python-e9d95bd341ee
+
+
+Suppose that a particular gene occurs as one of two alleles (A and a), where allele A has frequency θ in the population. That is, a random copy of the geneis A with probability θ and a with probability1 - θ. Since adiploid genotype consists of two genes,the probability of each genotype is given by
