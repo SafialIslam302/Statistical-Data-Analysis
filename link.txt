@@ -1,0 +1,95 @@
+https://www.probabilitycourse.com/chapter8/8_5_2_first_method_for_finding_beta.php
+
+
+https://online.stat.psu.edu/stat462/node/132/
+
+
+https://maelfabien.github.io/statistics/linreg/#parameter-estimate
+https://book.stat420.org/simple-linear-regression.html
+
+
+https://daviddalpiaz.github.io/stat3202-sp19/homework/pp-03-soln.html
+https://daviddalpiaz.github.io/stat3202-sp19/homework/pp-06-soln.html
+https://daviddalpiaz.github.io/stat3202-sp19/homework/hw-03-assign.html
+https://www.homeworklib.com/question/1298090/in-genetics-single-nucleotide-polymorphisms-snps
+
+
+Maximum Likelihood estimator:
+https://www.projectrhea.org/rhea/index.php/Maximum_Likelihood_Estimation_Analysis_for_various_Probability_Distributions
+https://www.youtube.com/watch?v=3qJDtn7Khbk
+https://www.youtube.com/watch?v=vX8-ZZwgmY4
+https://www.youtube.com/watch?v=h1UNFhYF3Xo
+https://www.youtube.com/watch?v=-3WcjA45gCg
+https://math.hawaii.edu/~grw/Classes/2018-2019/2019Spring/Math472_1/Assignment10.nb.html
+https://daviddalpiaz.github.io/stat3202-sp19/homework/pp-03-soln.html
+
+
+
+https://math.hawaii.edu/~grw/Classes/2018-2019/2019Spring/Math472_1/Homework.html
+
+
+https://www.freecodecamp.org/news/an-overview-of-principal-component-analysis-6340e3bc4073/#:~:text=The%20eigenvalues%20tells%20us%20the,principle%20component%20(or%20axis).
+
+
+
+UCB:
+https://www.turing.com/kb/guide-on-upper-confidence-bound-algorithm-in-reinforced-learning
+
+
+
+https://github.com/sprinterRu/thompson-sampling/blob/master/Thompson%20sampling.ipynb
+https://github.com/mlotta/ThompsonSamplingBernoulli/blob/master/Thompson_sampling.ipynb
+https://github.com/Volodymyr-Myronenko/Multi-armed-bandit/blob/master/Multi_armed_bandit.ipynb
+
+
+https://web.stanford.edu/class/archive/cs/cs109/cs109.1218/files/student_drive/
+
+
+
+
+Sufficient Statistic
+https://math.hawaii.edu/~grw/Classes/2018-2019/2019Spring/Math472_1/Assignment08.nb.html 
+https://www.chegg.com/homework-help/let-x1-xn-independent-pdfs-fxi-x-ei-xi-x-prove-t-mini-xi-su-chapter-9-problem-36e-solution-9780534243128-exc
+
+https://online.stat.psu.edu/stat415/lesson/24/24.2
+
+https://mediaspace.baylor.edu/media/Likelihood+Ratio+Tests/1_enl43u1o?fbclid=IwAR3mUO5Sa0yeO_fr3oSLWpX0HU5mxkX9W8avcrbOeglJeHeTCN_GZpVwuQQ
+
+https://www.probabilitycourse.com/chapter8/8_4_5_likelihood_ratio_tests.php
+https://www.probabilitycourse.com/chapter8/8_4_6_solved_probs.php
+
+
+
+
+						Hypothesis Test
+						
+https://web.ma.utexas.edu/users/mks/statmistakes/powersamplesize.html
+https://www.pharmacy180.com/article/two-sample-t-test-(independent-samples-with-a-common-variance)-2946/
+https://www.khanacademy.org/math/ap-statistics/xfb5d8e68:inference-categorical-proportions/error-probabilities-power/v/introduction-to-power-in-significance-tests
+https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_hypothesistest-means-proportions/bs704_hypothesistest-means-proportions3.html
+https://amsi.org.au/ESA_Senior_Years/SeniorTopic4/4h/4h_2content_11.html
+
+https://www.examsolutions.net/tutorials/exam-questions-hypothesis-tests-binomial-distribution/
+https://www.examsolutions.net/tutorials/exam-questions-hypothesis-tests-poisson-distribution/
+https://www.youtube.com/playlist?list=PL5pdglZEO3Nj5tBU6nVKVEPqDRYk7-ENN
+https://www.youtube.com/playlist?list=PL5pdglZEO3NgSv7QnUgwMxOAP2ubZ9ro-
+
+''''''''''''''''''''''
+
+SARSA algorithm:
+
+http://www.aispace.org/exercises/exercise11-b-1.shtml
+
+Q-learning algorithm
+
+http://www.aispace.org/exercises/exercise11-a-1.shtml
+
+
+
+https://www.kalmanfilter.net/kalman1d.html
+
+When the measurement uncertainty is large and the estimate uncertainty is low, the Kalman Gain is close to zero. Hence we give significant weight to the estimate and a small weight to the measurement.
+
+On the other hand, when the measurement uncertainty is low and the estimate uncertainty is large, the Kalman Gain is close to one. Hence we give a low weight to the estimate and a significant weight to the measurement.
+
+If the measurement uncertainty equals the estimate uncertainty, then the Kalman gain equals 0.5.
