@@ -7,6 +7,9 @@ Winter 2022 - 2023
 ## University 
 University of Potsdam
 
+## Program
+Data Science
+
 ## Teaching
 <b> Lecture: </b> Dr Jana de Wiljes
 
